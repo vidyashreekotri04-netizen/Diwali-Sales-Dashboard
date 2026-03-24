@@ -1,5 +1,5 @@
 # Diwali-Sales-Dashboard
-Agriculture Analytics Dashboard (AWS+SnowFlake+PowerBI-Dashboard)
+Diwali Sales Dashboard-Power BI-Dashboard
 
 Project Overview
 
